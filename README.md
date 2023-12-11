@@ -15,7 +15,7 @@
 [2]:https://github.com/iis3009/Portfolio/blob/main/scooter_rental/scooter_rental%20(1).ipynb
 [3]:https://github.com/iis3009/Portfolio/blob/main/game%20research/game%20research.ipynb
 [4]:https://github.com/iis3009/Portfolio/blob/main/application%20research/развлекательное_приложение%20(1).ipynb
-[5]:https://github.com/iis3009/Portfolio/blob/main/application%20research/развлекательное_приложение%20(1).ipynb
+[5]:https://github.com/iis3009/Portfolio/blob/main/hypotheses%20and%20AВ-test/AB_test%20(1).ipynb
 
 
 
